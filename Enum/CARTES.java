@@ -1,0 +1,5 @@
+package Enum;
+
+public enum CARTES {
+	AS, DEUX, TROIS, QUATRE, CINQ, SIX, SEPT, HUIT, NEUF, DIX, VALET, DAME, ROI
+}
